@@ -1,9 +1,10 @@
 streamlit==1.38.0
 matplotlib==3.5.3
-numpy==1.22.4  # Versão mais estável e compatível com Python 3.12
-qiskit==1.0.2
+numpy==1.26.0
 pandas==2.2.3
 Pillow==10.4.0
+qiskit==1.0.2
 jsonschema==4.23.0
 pyarrow==17.0.0
 pydeck==0.9.1
+
