@@ -1,0 +1,9 @@
+streamlit==1.38.0
+matplotlib==3.5.3
+numpy==2.1.1
+qiskit==0.40.2
+pandas==2.2.3
+Pillow==10.4.0
+jsonschema==4.23.0
+pyarrow==17.0.0
+pydeck==0.9.1
