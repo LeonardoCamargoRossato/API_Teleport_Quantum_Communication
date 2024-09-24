@@ -1,5 +1,5 @@
 ---
-### URL do App web: https://teleport-quantum-communication.streamlit.app/
+### URL | App web: https://teleport-quantum-communication.streamlit.app/
 ---
 
 ### 🌀 Interactive Quantum Teleportation
