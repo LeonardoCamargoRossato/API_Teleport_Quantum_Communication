@@ -1,1 +1,1 @@
-URL da API: https://teleport-quantum-communication.streamlit.app/
+URL do App web: https://teleport-quantum-communication.streamlit.app/
